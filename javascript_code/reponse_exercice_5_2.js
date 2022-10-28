@@ -1,0 +1,1 @@
+// Equivalent Algo (exercice_5_2) en Javascript

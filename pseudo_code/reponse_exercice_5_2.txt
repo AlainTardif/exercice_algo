@@ -1,0 +1,16 @@
+// Algo (exercice_5_2) en Javascript
+
+Variable N en Entier
+
+Debut
+    N <- 0
+    Ecrire "Entrez un nombre entre 10 et 20"
+    Tant Que N < 10 ou N > 20
+        Lire N
+        Si N < 10 Alors
+            Ecrire "Plus grand !"
+        Sinon Si N > 20 Alors
+            Ecrire "Plus petit !"
+        FinSi
+    Fin Tant Que
+Fin

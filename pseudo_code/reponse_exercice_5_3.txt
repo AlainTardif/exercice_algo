@@ -1,0 +1,17 @@
+// Algo (exercice_5_3) en Javascript
+
+Variables N, i en Entier
+
+Debut
+
+    Ecrire "Entrez un nombre : "
+    Lire N
+    Stop <- N + 10
+    Ecrire "Les 10 nombres suivants sont : "
+
+    Tant Que N < Stop
+        N <- N+1
+        Ecrire N
+    Fin Tant Que
+
+Fin
