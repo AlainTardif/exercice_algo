@@ -1,4 +1,6 @@
-// Algo (exercice_5_1) en Javascript
+// Algo (exercice_5_1) en Javascript 
+// Écrire un algorithme qui demande à l'utilisateur un nombre compris entre 1 et 3
+jusquà ce que la réponse convienne
 
 Variable N en Entier
 
@@ -12,4 +14,5 @@ Debut
             Fin Si
     Fin Tant Que
 Fin
+
 
