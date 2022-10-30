@@ -4,7 +4,7 @@ var N = 0;
 
 prompt("Entrez un nombre entre 1 et 3") 
     while ((N < 1) || (N > 3)){
-        window.alert("Saisie incorrecte, veuillez recommencer")
+        alert("Saisie incorrecte, veuillez recommencer")
         N = prompt("Entrez un nombre entre 1 et 3") 
 }
 alert("C'est parfait")
